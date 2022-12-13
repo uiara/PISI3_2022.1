@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 st.title("Análise de dados")
 
-dados = pd.read_csv("Portuguese.csv")
+dados = pd.read_csv("dados/Portuguese.csv")
 
 #st.dataframe(dados), comando q apareceria toda a tabela
 
