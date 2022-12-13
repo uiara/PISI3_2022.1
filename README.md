@@ -6,4 +6,6 @@
 
 4 - Execute: pip install -r requirements.txt --upgrade
 
-5 - Execute: streamlit run app.py
+5 - Executar para o app_tabela.py : pip install streamlit-aggrid
+
+6 - Execute: streamlit run app_tabela.py
